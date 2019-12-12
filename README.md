@@ -1,6 +1,6 @@
 1.安装插件
 
-  cordova plugin add <local path> cn-com-ths-sso
+  cordova plugin add <local path> https://github.com/THS-FE/cn-com-ths-sso.git
   
   
 2.移除插件 
